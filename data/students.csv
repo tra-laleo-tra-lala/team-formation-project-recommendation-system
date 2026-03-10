@@ -1,0 +1,13 @@
+student_id,name,skills,interests
+S001,Aarav,"python; machine learning; data analysis","ai, healthcare"
+S002,Diya,"java; web development; sql","e-commerce, fintech"
+S003,Rohan,"python; nlp; deep learning","chatbots, education"
+S004,Meera,"ui ux; frontend; javascript","design, social impact"
+S005,Ishaan,"cybersecurity; networks; linux","security, cloud"
+S006,Kavya,"python; computer vision; opencv","autonomous systems, robotics"
+S007,Arjun,"database; sql; backend","analytics, logistics"
+S008,Anaya,"data visualization; tableau; python","business intelligence, finance"
+S009,Vihaan,"android; kotlin; firebase","mobile apps, health"
+S010,Myra,"cloud; devops; docker","deployment, reliability"
+S011,Reyansh,"python; recommendation systems; statistics","music, personalization"
+S012,Saanvi,"iot; embedded systems; c","smart homes, sustainability"

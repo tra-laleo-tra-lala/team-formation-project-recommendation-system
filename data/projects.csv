@@ -1,0 +1,11 @@
+project_id,project_title,required_skills,domain,description
+P001,Smart Health Assistant,"python; machine learning; nlp",healthcare,"build an ai assistant for symptom guidance and appointment support"
+P002,E-commerce Recommender,"python; recommendation systems; statistics",e-commerce,"personalized product ranking using user behavior"
+P003,Campus Security Monitor,"computer vision; opencv; python",security,"detect unusual activity from cctv streams"
+P004,Financial Analytics Dashboard,"sql; data visualization; python",fintech,"interactive dashboard for transaction insights"
+P005,Cloud Deployment Optimizer,"cloud; devops; docker",cloud,"optimize deployment pipelines and cost"
+P006,Smart Home Energy Saver,"iot; embedded systems; c",sustainability,"monitor devices and reduce power consumption"
+P007,Logistics Route Planner,"backend; database; sql",logistics,"optimize last-mile delivery routes"
+P008,Education Chatbot,"nlp; python; web development",education,"answer course queries with contextual responses"
+P009,Mobile Health Tracker,"android; firebase; kotlin",healthcare,"track activity nutrition and reminders"
+P010,Phishing Detection System,"cybersecurity; machine learning; python",security,"classify malicious urls and phishing messages"
